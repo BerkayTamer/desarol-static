@@ -1,0 +1,1 @@
+# desarol-static
