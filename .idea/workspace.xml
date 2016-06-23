@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f89a9fcd-cc7f-47d8-b411-c2b50e714719" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/footer/footer.css" afterPath="$PROJECT_DIR$/components/footer/footer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/facebook-logo-button.svg" afterPath="$PROJECT_DIR$/images/facebook-logo-button.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/github-logo.svg" afterPath="$PROJECT_DIR$/images/github-logo.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/twitter-logo-button.svg" afterPath="$PROJECT_DIR$/images/twitter-logo-button.svg" />
     </list>
     <ignored path="desarol-static.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,8 +44,8 @@
       <file leaf-file-name="footer.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/components/footer/footer.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.77272725">
-              <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.47727272">
+              <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -68,10 +65,10 @@
         <option value="$PROJECT_DIR$/components/footer/footer.html" />
         <option value="$PROJECT_DIR$/components/header/header.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/components/footer/footer.css" />
         <option value="$PROJECT_DIR$/images/facebook-logo-button.svg" />
         <option value="$PROJECT_DIR$/images/github-logo.svg" />
         <option value="$PROJECT_DIR$/images/twitter-logo-button.svg" />
+        <option value="$PROJECT_DIR$/components/footer/footer.css" />
       </list>
     </option>
   </component>
@@ -356,8 +353,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/components/footer/footer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77272725">
-          <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.47727272">
+          <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
           <folding />
         </state>
       </provider>

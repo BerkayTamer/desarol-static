@@ -55,8 +55,8 @@
 
 
 input[type=text] {
+    font-size: 18px;
     position: relative;
-    top: -2px;
     height: 2.8rem;
     width: 20rem;
     box-shadow: 0 6px #d2d2d2;
