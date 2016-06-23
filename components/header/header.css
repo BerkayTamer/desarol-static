@@ -1,17 +1,20 @@
+.header__wrapper {
+    background-color: #0077a6;
+}
+
 .header {
+    text-decoration: none;
+    color: inherit;
 }
 
 .header__logo {
-    height: 15rem;
-    width: 75rem;
-}
-
-.header__wrapper {
-
+    height: 20rem;
 }
 
 .header__slogan {
-
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 3rem;
+    font-weight: 100;
 }
 
 .header__image {
@@ -45,7 +48,7 @@
 
 .site__title {
     text-align: center;
-    color: #146dcb;
+    color: #0077a6;
     font-size: 5rem;
     margin-top: 5rem;
 }
@@ -53,7 +56,7 @@
 .site__summary-wrapper {
     border-top: 10px solid darkblue;
     padding: 3em 1.33333em;
-    background-color: #146dcb;
+    background-color: #0077a6;
     color: #fff;
 }
 
