@@ -1,0 +1,27 @@
+{
+  "name": "desarol-static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "breakpoint-sass": "^2.7.0",
+    "node-sass": "^3.8.0",
+    "nodemon": "^1.9.2"
+  },
+  "scripts": {
+    "test": "node test.js",
+    "build-css": "node-sass --watch scss --output css",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BerkayTamer/desarol-static.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BerkayTamer/desarol-static/issues"
+  },
+  "homepage": "https://github.com/BerkayTamer/desarol-static#readme"
+}
