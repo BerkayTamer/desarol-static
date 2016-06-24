@@ -57,6 +57,7 @@
     text-decoration: none;
     color: #666;
     font-weight: 900;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .site__title {
@@ -64,6 +65,7 @@
     color: #0077a6;
     font-size: 5rem;
     margin-top: 5rem;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .site__summary-wrapper {
@@ -87,6 +89,7 @@
     color: #fff;
     letter-spacing: 2px;
     margin-top: 0;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .header__logo-text {
