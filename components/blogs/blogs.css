@@ -6,6 +6,7 @@
 .blogs-slogan {
   color: #888;
   font-size: 19px;
+  font-weight: 100;
   line-height: 26px;
   margin-bottom: 26px;
   text-align: center;
@@ -16,7 +17,8 @@
   margin-bottom: 26px;
   border-bottom: 0;
   font-weight: 400;
-  list-style-type: none; }
+  list-style-type: none;
+  font-family: 'Josefin Sans', sans-serif; }
 
 .blogs-sidebar__link {
   color: inherit;

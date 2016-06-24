@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f89a9fcd-cc7f-47d8-b411-c2b50e714719" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/header/header.css" afterPath="$PROJECT_DIR$/components/header/header.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/header/header.scss" afterPath="$PROJECT_DIR$/components/header/header.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/style.scss" afterPath="$PROJECT_DIR$/scss/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/blogs/blogs.css" afterPath="$PROJECT_DIR$/components/blogs/blogs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/blogs/blogs.css.map" afterPath="$PROJECT_DIR$/components/blogs/blogs.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/blogs/blogs.scss" afterPath="$PROJECT_DIR$/components/blogs/blogs.scss" />
     </list>
     <ignored path="desarol-static.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,8 +47,8 @@
       <file leaf-file-name="blogs.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/components/blogs/blogs.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3508772">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.4385965">
+              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -638,8 +636,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/components/blogs/blogs.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3508772">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.4385965">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
           <folding />
         </state>
       </provider>
