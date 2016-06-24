@@ -1,10 +1,10 @@
-.blogs-logo {
+.main-menu__logo {
     height: 9.5rem;
     position: relative;
     padding: 2rem 0 0 1rem;
 }
 
-.blogs-slogan {
+.main-menu__slogan {
     color: #888;
     font-size: 19px;
     font-weight: 100;
@@ -14,10 +14,10 @@
     font-family: 'Josefin Sans', sans-serif;
 }
 
-.blogs-sidebar {
+.main-menu__sidebar {
 }
 
-.blogs-sidebar__item {
+.main-menu__sidebar-item {
   font-size: 16px;
   margin-bottom: 26px;
   border-bottom: 0;
@@ -26,7 +26,7 @@
   font-family: 'Josefin Sans', sans-serif;
 }
 
-.blogs-sidebar__link {
+.main-menu__sidebar-link {
   color: inherit;
   text-decoration: none;
 }
