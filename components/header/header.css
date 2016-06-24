@@ -1,31 +1,41 @@
 .header__wrapper {
     background-color: #0077a6;
+    padding: 1rem;
+}
+
+.layout__max {
+    max-width: 1200px;
+    margin: auto;
 }
 
 .header {
-    display: flex;
     text-decoration: none;
     color: inherit;
+    margin: auto;
+    text-align: center;
 }
 
 .header__logo {
-    height: 20rem;
+    height: 9.5rem;
+    position: relative;
+}
+
+.header__slogan-wrapper {
+    max-width: 1200px;
 }
 
 .header__slogan {
+    right: 45rem;
+    top: 23px;
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 3rem;
+    font-size: 1.5rem;
     font-weight: 100;
     color: white;
-    padding: 1.5rem 0 0 1rem;
+    display: block;
 }
 
 .header__image {
-    display: block;
-    margin: auto;
-    width: 80rem;
-    height: 32rem;
-    padding-top: 5rem;
+    width: 100%;
 }
 
 .secondary-header {
