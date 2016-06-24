@@ -60,3 +60,83 @@ input[type=submit] {
   border-radius: 0 5px 5px 0;
   box-shadow: 0 6px #72d387;
   font-size: 16px; }
+
+.header__wrapper {
+  background-color: #0077a6;
+  padding: 1rem; }
+
+.layout__max {
+  max-width: 1200px;
+  margin: auto; }
+
+.header {
+  text-decoration: none;
+  color: inherit;
+  margin: auto;
+  text-align: center; }
+
+.header__logo {
+  height: 9.5rem;
+  position: relative; }
+
+.header__slogan-wrapper {
+  max-width: 1200px; }
+
+.header__slogan {
+  right: 45rem;
+  top: 23px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 100;
+  color: white;
+  display: block; }
+
+.header__image {
+  width: 100%; }
+
+.secondary-header {
+  display: block;
+  text-align: center;
+  margin-top: 3rem; }
+
+.secondary-header__item {
+  position: relative;
+  display: inline-block;
+  margin-right: .25rem;
+  font-size: 1.4rem; }
+
+.secondary-header__link {
+  padding: .5rem;
+  letter-spacing: 1px;
+  text-decoration: none;
+  color: #666;
+  font-weight: 900;
+  font-family: 'Josefin Sans', sans-serif; }
+
+.site__title {
+  text-align: center;
+  color: #0077a6;
+  font-size: 5rem;
+  margin-top: 5rem;
+  font-family: 'Josefin Sans', sans-serif; }
+
+.site__summary-wrapper {
+  border-top: 10px solid darkblue;
+  padding: 3em 1.33333em;
+  background-color: #0077a6;
+  color: #fff; }
+
+.site__summary {
+  display: block;
+  clear: both;
+  max-width: 1024px;
+  margin: 0 auto; }
+
+.site__summary-content {
+  font-weight: 400;
+  font-size: 3rem;
+  line-height: 4rem;
+  color: #fff;
+  letter-spacing: 2px;
+  margin-top: 0;
+  font-family: 'Josefin Sans', sans-serif; }
